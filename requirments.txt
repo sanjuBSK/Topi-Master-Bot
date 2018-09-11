@@ -1,1 +1,1 @@
-discord = https://github.com/sanjuBSK/Topi-Master-Bot/discord
+discord = https://github.com/sanjuBSK/Topi-Master-Bot/tree/master/discord
